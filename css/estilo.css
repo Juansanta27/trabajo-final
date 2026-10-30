@@ -8,6 +8,7 @@
 --color-borde: #e2e8f0;
 --sombra-suave: 0 8px 24px rgba(15, 23, 42, 0.08);
 }
+*
 {
 margin: 0;
 padding: 0;
@@ -45,7 +46,7 @@ font: inherit;
 }
 /* =========================================
 HEADER Y MENÚ DE NAVEGACIÓN
-========================================= /
+========================================= */
 .encabezado {
 display: flex;
 justify-content: space-between;
