@@ -85,7 +85,7 @@ color: var(--color-secundario);
 }
 /* =========================================
 HERO / PRESENTACIÓN PRINCIPAL
-========================================= /
+========================================= */
 .hero {
 padding: 70px 20px;
 background: linear-gradient(135deg, #fff7ed, var(--color-gris-claro));
@@ -127,7 +127,7 @@ box-shadow: var(--sombra-suave);
 }
 /* =========================================
 BOTONES GENERALES
-========================================= /
+========================================= */
 .boton,
 .boton-tarjeta,
 .boton-servicio,
@@ -162,7 +162,7 @@ outline-offset: 3px;
 }
 /* =========================================
 SECCIÓN NOSOTROS
-========================================= /
+========================================= */
 .nosotros {
 padding: 70px 20px;
 }
@@ -193,7 +193,7 @@ margin-bottom: 12px;
 }
 /* =========================================
 PRODUCTOS
-========================================= /
+========================================= */
 .productos {
 padding: 70px 20px;
 background-color: var(--color-gris-claro);
@@ -254,7 +254,7 @@ font-size: 1.1rem;
 }
 /* =========================================
 SERVICIOS
-========================================= /
+========================================= */
 .servicios {
 padding: 70px 20px;
 text-align: center;
@@ -285,7 +285,7 @@ margin-bottom: 5px;
 }
 /* =========================================
 TABLA DE PAQUETES Y PRECIOS
-========================================= /
+========================================= */
 .seccion-tabla {
 padding: 70px 20px;
 background-color: var(--color-gris-claro);
@@ -319,7 +319,7 @@ background-color: #fff7ed;
 }
 /* =========================================
 GALERÍA
-========================================= /
+========================================= */
 .galeria {
 padding: 70px 20px;
 text-align: center;
@@ -344,7 +344,7 @@ transform: scale(1.03);
 }
 /* =========================================
 CONTACTO
-========================================= /
+========================================= */
 .contacto {
 padding: 70px 20px;
 background: linear-gradient(135deg, #fff7ed, var(--color-gris-claro));
@@ -399,7 +399,7 @@ margin-top: 10px;
 }
 /* =========================================
 FOOTER / PIE DE PÁGINA
-========================================= /
+========================================= */
 .pie-pagina {
 background-color: #0f172a;
 color: #ffffff;
@@ -442,7 +442,7 @@ color: #94a3b8 !important;
 }
 /* =========================================
 DISEÑO RESPONSIVE
-========================================= /
+========================================= */
 @media (max-width: 900px) {
 .encabezado {
 flex-direction: column;
