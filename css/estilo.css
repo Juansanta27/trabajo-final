@@ -10,6 +10,7 @@
     --color-gris-claro: #f8fafc;
     --color-borde: #e2e8f0;
     --sombra-suave: 0 8px 24px rgba(15, 23, 42, 0.08);
+    --color-prueba:white;
 }
 
 * {
